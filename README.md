@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ronystar
+- 👋 Hi, I’m @ronystar (RAJDIP CHAKRABORTY), a fresher to the web development arena
 - 👀 I’m interested in developing web based applications
 - 🌱 I’m currently learning theoretical concepts on DBMS and Computer Networking
 - 💞️ I’m looking to collaborate on some good projects based on web dev
